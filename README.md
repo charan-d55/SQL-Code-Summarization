@@ -1,1 +1,3 @@
 # SQL-Code-Summarization
+
+Llama 2 is a set of pre-trained and fine-tuned text models optimized for dialogue tasks, ranging from 7 billion to 70 billion parameters. It surpasses open-source chat models on most metrics and matches closed-source models in human evaluations for usefulness and safety. Llama.cpp is a C/C++ implementation designed to run the LLaMA model with 4-bit integer quantization on MacBook, supporting various architectures and libraries. GGML, a C library for machine learning, aids in distributing large language models (LLMs) by enabling efficient execution on consumer hardware through quantization. The Hugging Face community offers quantized models, including variations based on the GGLM library, like Llama-2-13B-chat-GGML.
